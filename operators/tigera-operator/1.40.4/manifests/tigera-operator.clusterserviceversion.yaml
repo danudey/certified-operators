@@ -709,7 +709,7 @@ spec:
     name: Tigera
     url: https://tigera.io/
   version: 1.40.4
-  replaces: tigera-operator.v1.40.3
+  replaces: tigera-operator.v1.40.2
   relatedImages:
     - name: tigera-operator
       image: quay.io/tigera/operator@sha256:3a2ce40826ab63e6f759a577306a2fe2c5c5edc37957c107bb0df632d80bc56a
